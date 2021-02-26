@@ -441,7 +441,7 @@ print("""
 """)
 time.sleep(1.2)
 os.system(delet)
-print('------zer0sec------\n')
+print('------MBHudson 2021------\n')
 time.sleep(5)
 os.system(delet)
 print("""
